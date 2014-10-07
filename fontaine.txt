@@ -1,0 +1,38 @@
+Fonts
+  Font:
+    Common name: Trade Winds
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name "Trade Winds"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Font Diner, Inc DBA Sideshow
+    Vendor url: http://www.fontbros.com/sideshow.php
+    Designer: Squid
+    Designer url: http://www.squidart.com
+    Glyph count: 227
+    Character count: 226
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
